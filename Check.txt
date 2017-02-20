@@ -1,0 +1,14 @@
++--------------------------------------------------------------+ 
+|                                          Check No. $chkno    | 
+| $first                        $last                          | 
+| $addr[0]                                                     | 
+| $addr[1]                                                     | 
+| $phone                                        $date          | 
+|                                                              | 
+| Pay to the                                                   | 
+| Order of:                  $payee             $amount        | 
+|                                                              | 
+| For: $memo                         Stamped Signature         | 
+|                                                              | 
++--------------------------------------------------------------+ 
+
